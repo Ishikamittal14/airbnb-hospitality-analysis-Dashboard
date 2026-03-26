@@ -52,6 +52,7 @@ The dataset contains **55,000+ records** with the following fields:
 * Data Visualization
 
 ## 📸 Dashboard Preview
+<img alt="Dashboard.png" src="https://github.com/user-attachments/assets/ed1b361e-a853-4461-a826-246775e651b1" />
 
 
 ## 💡 Key Insights
